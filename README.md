@@ -1,14 +1,14 @@
 # TallNether
 ## About
-A plugin for Spigot and Paper that doubles the height of the vanilla Nether and allows some customization of the generator.
+基于[TallNether](https://github.com/OtakuMegane/TallNether)
+Spigot和Paper的一个插件，将原版下界的高度增加了一倍，并允许对生成器进行一些自定义。
 
 ## Usage
-The official page, downloads and instructions can be found here: [TallNether](https://www.spigotmc.org/resources/tallnether.22561/)
+官方页面、下载和说明可在此处找到: [TallNether（原作者）](https://www.spigotmc.org/resources/tallnether.22561/)
 
 ## Compiling
-To compile the plugin yourself you will need:
+要自己编译插件，您需要:
  - Maven
- - The CraftBukkit jars for each NMS revision of Minecraft 1.12 - 1.14
  - The Spigot jars for each NMS revision of Minecraft 1.15 - 1.18
  - The Paper jars for each NMS revision of Minecraft 1.12 and 1.15 - 1.18
  
